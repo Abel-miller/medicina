@@ -1,0 +1,186 @@
+íconos {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 180.24px;
+height: 189.56px;
+left: 366px;
+top: 276px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+}
+
+Property1Default {
+
+position: absolute;
+width: 140.24px;
+height: 36.52px;
+left: 20px;
+top: 20px;
+
+}
+
+icon point right {
+
+position: absolute;
+left: 71.43%;
+right: 0%;
+top: 0%;
+bottom: 4.17%;
+
+}
+
+Vector {
+
+position: absolute;
+left: 71.43%;
+right: 0%;
+top: 0%;
+bottom: 4.17%;
+
+background: #DF3034;
+
+}
+
+icon point left {
+
+position: absolute;
+left: 28.57%;
+right: 42.86%;
+top: 0%;
+bottom: 0%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+Vector {
+
+position: absolute;
+left: 28.57%;
+right: 42.86%;
+top: 0%;
+bottom: 0%;
+
+background: #DF3034;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+Property1Variant3 {
+
+position: absolute;
+width: 140.24px;
+height: 36.52px;
+left: 20px;
+top: 133.04px;
+
+}
+
+
+icon point right {
+
+position: absolute;
+left: 71.43%;
+right: 0%;
+top: 0%;
+bottom: 4.17%;
+
+}
+
+
+Vector {
+
+position: absolute;
+left: 71.43%;
+right: 0%;
+top: 0%;
+bottom: 4.17%;
+
+background: #DF3034;
+
+}
+
+icon point left {
+
+position: absolute;
+left: 28.57%;
+right: 42.86%;
+top: 0%;
+bottom: 0%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+Vector {
+
+position: absolute;
+left: 28.57%;
+right: 42.86%;
+top: 0%;
+bottom: 0%;
+
+background: #58FFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+Property1Variant2 {
+
+position: absolute;
+width: 140.24px;
+height: 36.52px;
+left: 20px;
+top: 76.52px;
+
+}
+
+
+icon point right{
+
+position: absolute;
+left: 71.43%;
+right: 0%;
+top: 0%;
+bottom: 4.17%;
+
+}
+
+Vector {
+
+position: absolute;
+left: 71.43%;
+right: 0%;
+top: 0%;
+bottom: 4.17%;
+
+background: #58FFFF;
+
+}
+
+icon point left {
+
+position: absolute;
+left: 28.57%;
+right: 42.86%;
+top: 0%;
+bottom: 0%;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+
+Vector  {
+
+position: absolute;
+left: 28.57%;
+right: 42.86%;
+top: 0%;
+bottom: 0%;
+
+background: #DF3034;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}

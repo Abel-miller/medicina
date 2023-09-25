@@ -1,0 +1,88 @@
+button {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 95px;
+height: 170px;
+left: 594px;
+top: 62px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* Property 1=android, Property 2=fab */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 55px;
+height: 55px;
+right: 20px;
+top: 20px;
+
+background: #672D91;
+box-shadow: 0px 2px 0px #000000;
+border-radius: 250px;
+
+
+/* icon / android / 24 / add-plus */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 16px;
+top: 16px;
+
+background: linear-gradient(151.11deg, #00CC99 -36.25%, rgba(58, 148, 125, 0) 11.36%);
+
+
+/*  ↳Color */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #FFFFFF;
+
+
+/* Property 1=android, Property 2=active */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 55px;
+height: 55px;
+right: 20px;
+top: 95px;
+
+background: #58FFFF;
+box-shadow: 0px 2px 0px #000000;
+border-radius: 250px;
+
+
+/* icon / android / 24 / add-plus */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 16px;
+top: 16px;
+
+background: linear-gradient(151.11deg, #00CC99 -36.25%, rgba(58, 148, 125, 0) 11.36%);
+
+
+/*  ↳Color */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #000000;
+
+}

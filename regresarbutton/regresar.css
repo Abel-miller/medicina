@@ -1,0 +1,134 @@
+button {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 207px;
+height: 202px;
+left: 325px;
+top: 50px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+}
+/* Property 1=android, Property 2=small, Property 3=contained, Property 4=default, Property 5=no-icon, Property 6=handwriting */
+
+ Autolayout {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 167px;
+height: 71px;
+left: 20px;
+top: 111px;
+
+border-radius: 20px;
+ }
+
+/* button / android / small / contained / default / no-icon / handwriting */
+
+Auto layout {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 165.05px;
+height: 29px;
+left: 348px;
+top: 104px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+
+
+/* button / android / small / contained / default / no-icon / Roboto */
+
+width: 172px;
+height: 71px;
+
+background: #3527A5;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* label */
+
+position: absolute;
+width: 130.46px;
+height: 16px;
+left: 367.77px;
+top: calc(50% - 16px/2 - 471.5px);
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 16px;
+/* identical to box height, or 73% */
+text-align: center;
+letter-spacing: 1.25px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+
+
+/* button / android / small / contained / default / no-icon / handwriting */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: relative;
+width: 165.05px;
+height: 29px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+
+
+/* button / android / small / contained / default / no-icon / Roboto */
+
+width: 100px;
+height: 20px;
+
+background: #979797;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* label */
+
+position: absolute;
+width: 130.46px;
+height: 16px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 16px;
+/* identical to box height, or 73% */
+text-align: center;
+letter-spacing: 1.25px;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}

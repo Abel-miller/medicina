@@ -1,0 +1,56 @@
+star {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 89.01px;
+height: 160px;
+left: 127px;
+top: 281px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* Property 1=Default */
+
+position: absolute;
+left: 22.47%;
+right: 22.47%;
+top: 12.5%;
+bottom: 56.25%;
+
+
+
+/*  ↳Color */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #DF3034;
+
+
+/* Property 1=Variant2 */
+
+position: absolute;
+left: 22.47%;
+right: 22.47%;
+top: 56.25%;
+bottom: 12.5%;
+
+
+
+/*  ↳Color */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #58FFFF;
+
+}

@@ -1,0 +1,37 @@
+upload  {
+
+position: absolute;
+width: 39.65px;
+height: 39.51px;
+left: 64px;
+top: 792px;
+
+}
+
+Vector9  {
+
+box-sizing: border-box;
+
+position: absolute;
+left: 29.17%;
+right: 33.47%;
+top: 20.83%;
+bottom: 37.35%;
+
+border: 2px solid #000000;
+transform: matrix(0, 1, 1, 0, 0, 0);
+}
+
+ Vector114 {
+
+box-sizing: border-box;
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 66.67%;
+bottom: 20.83%;
+
+border: 2px solid #000000;
+border-radius: 2px;
+}

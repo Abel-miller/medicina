@@ -1,0 +1,48 @@
+ícono hombre {
+
+position: absolute;
+width: 28.46px;
+height: 57.35px;
+left: 187.57px;
+top: 483px;
+}
+
+
+ Group  {
+
+position: absolute;
+left: 6.14%;
+right: 92.92%;
+top: 40.97%;
+bottom: 54.17%;
+}
+
+
+Vector  {
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 25%;
+bottom: 0%;
+
+
+background: #FFFFFF;
+border: 3px solid #DF3034;
+}
+
+Vector  {
+
+box-sizing: border-box;
+
+position: absolute;
+left: 31.82%;
+right: 31.81%;
+top: 0%;
+bottom: 79.99%;
+
+background: #FFFFFF;
+border: 3px solid #DF3034;
+}

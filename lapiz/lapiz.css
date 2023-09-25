@@ -1,0 +1,121 @@
+editar { 
+
+box-sizing: border-box;
+
+position: absolute;
+width: 74.17px;
+height: 130px;
+left: 41px;
+top: 291px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* Property 1=Default */
+
+position: absolute;
+width: 34.17px;
+height: 35px;
+left: 20px;
+top: 20px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 92.5%;
+bottom: 0%;
+
+background: #DF3034;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.31%;
+right: 6.46%;
+top: 0%;
+bottom: 56.81%;
+
+background: #DF3034;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.38%;
+right: 29.23%;
+top: 22.25%;
+bottom: 15%;
+
+background: #DF3034;
+
+
+/* Property 1=Variant2 */
+
+position: absolute;
+width: 34.17px;
+height: 35px;
+left: 20px;
+top: 75px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 92.5%;
+bottom: 0%;
+
+background: #58FFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.31%;
+right: 6.46%;
+top: 0%;
+bottom: 56.81%;
+
+background: #58FFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.38%;
+right: 29.23%;
+top: 22.25%;
+bottom: 15%;
+
+background: #58FFFF;
+
+
+}

@@ -1,0 +1,83 @@
+Group1000000894  {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 162px;
+height: 210px;
+left: 366px;
+top: 496px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+}
+Property1Default {
+
+position: absolute;
+width: 122px;
+height: 75px;
+left: 20px;
+top: 20px;
+}
+
+
+Polygon2 {
+
+position: absolute;
+left: 64.75%;
+right: -24.59%;
+top: 0%;
+bottom: -5.33%;
+
+background: #58FFFF;
+transform: rotate(90deg);
+
+}
+
+Polygon3 {
+
+position: absolute;
+left: 100%;
+right: -59.84%;
+top: 2.67%;
+bottom: -8%;
+
+background: linear-gradient(0deg, #DF3034, #DF3034), linear-gradient(0deg, #DF3034, #DF3034), #DF3034;
+transform: rotate(90deg);
+
+}
+Property1Variant2 {
+
+position: absolute;
+width: 122px;
+height: 75px;
+left: 20px;
+top: 115px;
+
+}
+
+Polygon2  {
+
+position: absolute;
+left: 64.75%;
+right: -24.59%;
+top: 0%;
+bottom: -5.33%;
+
+background: #DF3034;
+transform: rotate(90deg);
+
+}
+
+Polygon3 {
+
+position: absolute;
+left: 100%;
+right: -59.84%;
+top: 2.67%;
+bottom: -8%;
+
+background: linear-gradient(0deg, #58FFFF, #58FFFF), linear-gradient(0deg, #DF3034, #DF3034), #DF3034;
+transform: rotate(90deg);
+}

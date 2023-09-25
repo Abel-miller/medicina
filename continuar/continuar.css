@@ -1,0 +1,162 @@
+ button {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 207px;
+height: 202px;
+left: 43px;
+top: 63px;
+
+border: 1px dashed #9747FF;
+border-radius: 5px;
+
+
+/* Property 1=android, Property 2=small, Property 3=contained, Property 4=default, Property 5=no-icon, Property 6=handwriting */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 167px;
+height: 71px;
+left: 20px;
+top: 20px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+
+
+/* button / android / small / contained / default / no-icon / Roboto */
+
+width: 172px;
+height: 71px;
+
+background: #DF3034;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* label */
+
+position: absolute;
+width: 132px;
+height: 16px;
+left: 20px;
+top: calc(50% - 16px/2 + 14.5px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 16px;
+/* identical to box height, or 73% */
+letter-spacing: 1.25px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* icon "point right" */
+
+position: absolute;
+width: 47px;
+height: 35px;
+left: 62px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 36.05%;
+right: 36.63%;
+top: 0%;
+bottom: 50.7%;
+
+background: #FFFFFF;
+
+
+/* Property 1=android, Property 2=small, Property 3=contained, Property 4=default, Property 5=no-icon, Property 6=handwriting */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 167px;
+height: 71px;
+left: 20px;
+top: 111px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 20px;
+
+
+/* button / android / small / contained / default / no-icon / Roboto */
+
+width: 172px;
+height: 71px;
+
+background: #979797;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* label */
+
+position: absolute;
+width: 132px;
+height: 16px;
+left: 20px;
+top: calc(50% - 16px/2 + 14.5px);
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 16px;
+/* identical to box height, or 73% */
+letter-spacing: 1.25px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* icon "point right" */
+
+position: absolute;
+width: 47px;
+height: 35px;
+left: 62px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 36.05%;
+right: 36.63%;
+top: 0%;
+bottom: 50.7%;
+
+background: #FFFFFF;
+
+}
